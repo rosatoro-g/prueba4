@@ -126,3 +126,5 @@ while True:
 
     if opcion=="4":
         carrito()
+
+    print("Estoy media perdida")
